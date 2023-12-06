@@ -462,7 +462,8 @@ figure.effect-ming:hover img { opacity: 0.4; }
 
 /* Videos */
 #tm-video-container {
-    max-height: 400px;
+    max-height: 700px;
+    max-width: 500px;
     overflow: hidden;
     background-color: #333;
     margin-bottom: 90px;
