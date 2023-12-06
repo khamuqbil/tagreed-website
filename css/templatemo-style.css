@@ -6,7 +6,7 @@ https://templatemo.com/tm-556-catalog-z
 
 */
 .logo{
-  inline-size :60px
+  inline-size :75px
 }
 
 .col-6{
@@ -155,7 +155,7 @@ a {
     text-decoration: none;
     transition: all 0.3s ease;
 }
-a:hover { color:#009999; }
+a:hover { color:#3399CC; }
 .container-fluid { max-width: 1770px; }
 .tm-container-small { max-width: 1050px; }
 .btn { border-radius: 0; }
